@@ -3,7 +3,7 @@
     margin: 0 auto;
     justify-content: center;
     outline: hidden;
-
+    overflow: hidden;
 }
 
 .pic {
@@ -27,9 +27,9 @@
 
 .Start{
     position: absolute;
-    top: 150%;
+    top: 90%;
     left: 50%;
-    transform: translate(-50%, -5000%);
+    transform: translate(-50%, -50%);
     width: 150px;
     height: 50px;
     padding: 10px 20px;
