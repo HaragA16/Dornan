@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="Encalve.css">
+    <script src="Enclave.js"></script>
+    <img class="pic" src="tv1.png.png">
+    <img class="gif" src="talking.gif">
+</head>
+<body>
+    <div class="button">
+        <button class="Start" onclick="start(); toggleText();">
+            Start
+        </button>
+        <audio id="audioPlayer" src="PowerArmor.mp4.mp4"></audio>
+        <audio id="audioPlayer" src="DontHaveAny.mp4.mp4"></audio>
+    </div>
+
+    <div class="text1" id="textToToggle">
+        Welcome to Camp Navarro. So, you're the new replacement... 
+        <br>You are out of uniform, soldier! Where is your power armor?</br>
+    </div>
+
+    <div class="button2" id="button2">
+        <button class="text2" id="textToToggle2" onclick="toggleText2();">
+            Uh... I wasn’t issued any armor.
+        </button>
+    </div>
+
+    <div class="text3" id="textToToggle3">
+        <br>Don't have any? You expect me to believe that, maggot? The truth is you lost an expensive piece of army-issue equipment. </br>
+        <br>That suit is going to come out of your pay, and you will remain in this man's army until you are five hundred and ten years old, </br>
+        <br>which is the number of years it will take for you to pay for a Mark II Powered Combat Armor you have lost! </br>
+        <br>Report to the armory and have a new suit issued to you, then report back to me, private! Dismissed! </br>
+    </div>
+
+    <div class="button4">
+        <button class="text4" id="textToToggle4" onclick="showText4();">
+            Yes, Sergeant!
+        </button>
+    </div>
+
+    <div class="button5">
+        <button class="Done" id="end1" onclick="end();">
+            [Done.]
+        </button>
+    </div>
+</body>
+</html>
