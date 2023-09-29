@@ -40,26 +40,26 @@
 .text1 {
     color: #c6ff00;
     font-family: 'Monofonto', monospace;
-    top: 80%;
+    top: 100%;
     left: 50%;
-    transform: translate(25%, -55%);
+    transform: translate(25%, -1100%);
     font-size: 20px;
     background-color: transparent;
     display: none;
 }
 
 .button2 {
-    top: 80%;
+    top: 100%;
     left: 50%;
-    transform: translate(-20%, -55%);
+    transform: translate(-20%, -1000%);
     font-size: 20px;
     background-color: transparent;
 }
 
 .button4 {
-    top: 80%;
+    top: 100%;
     left: 50%;
-    transform: translate(-25%, -30%);
+    transform: translate(-25%, -1350%);
     font-size: 20px;
     background-color: transparent;
 }
@@ -75,9 +75,9 @@
 .text3 {
     color: #c6ff00;
     font-family: 'Monofonto', monospace;
-    top: 80%;
+    top: 100%;
     left: 50%;
-    transform: translate(22%, -50%);
+    transform: translate(25%, -400%);
     font-size: 15px;
     background-color: transparent;
     display: none;
@@ -93,7 +93,7 @@
 
 .Done {
     position: absolute;
-    top: 185%;
+    top: 90%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 150px;
