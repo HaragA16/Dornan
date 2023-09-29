@@ -20,14 +20,14 @@
     position: absolute;
     width: 50%;
     height: 50%;
-    top: 50%;
+    top: 80%;
     left: 50%;
     transform: translate(-55%, -2050%);
 }
 
 .Start{
     position: absolute;
-    top: 105%;
+    top: 150%;
     left: 50%;
     transform: translate(-50%, -5000%);
     width: 150px;
@@ -40,7 +40,7 @@
 .text1 {
     color: #c6ff00;
     font-family: 'Monofonto', monospace;
-    top: 50%;
+    top: 80%;
     left: 50%;
     transform: translate(25%, -5500%);
     font-size: 20px;
@@ -49,7 +49,7 @@
 }
 
 .button2 {
-    top: 50%;
+    top: 80%;
     left: 50%;
     transform: translate(-20%, -4500%);
     font-size: 20px;
@@ -57,7 +57,7 @@
 }
 
 .button4 {
-    top: 50%;
+    top: 80%;
     left: 50%;
     transform: translate(-25%, -3000%);
     font-size: 20px;
@@ -75,7 +75,7 @@
 .text3 {
     color: #c6ff00;
     font-family: 'Monofonto', monospace;
-    top: 50%;
+    top: 80%;
     left: 50%;
     transform: translate(22%, -1950%);
     font-size: 15px;
@@ -93,7 +93,7 @@
 
 .Done {
     position: absolute;
-    top: 105%;
+    top: 185%;
     left: 50%;
     transform: translate(-50%, -3000%);
     width: 150px;
